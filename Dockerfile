@@ -1,5 +1,5 @@
 FROM alpine:3.6
-MAINTAINER Anon <someone@shaddy.space>
+MAINTAINER IRoN <pety3bi@gmail.com>
 
 ENV LISTEN_IP 0.0.0.0
 ENV LISTEN_PORT 443
