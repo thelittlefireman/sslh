@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:latest
 MAINTAINER IRoN <pety3bi@gmail.com>
 
 ENV LISTEN_IP 0.0.0.0
