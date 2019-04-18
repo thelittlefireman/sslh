@@ -10,7 +10,7 @@ Usage
 
 Start and expose 443
 ```bash
-   docker run -d -p 443:443 --name sslh pety3bi/sslh
+docker run -d -p 443:443 --name sslh pety3bi/sslh
 ```
 
 Enviroment variables for manipulating container. Names are self explonatory, I hope.
