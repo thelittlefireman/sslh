@@ -1,4 +1,4 @@
-sslh-hub
+sslh
 ========
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/pety3bi/sslh.svg)](https://hub.docker.com/r/pety3bi/sslh/)
